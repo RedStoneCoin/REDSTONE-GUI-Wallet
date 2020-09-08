@@ -1,7 +1,7 @@
 Copyright (c) 2012-2017, The CryptoNote developers, The Bytecoin developers, The Forknote developers  
 Copyright (c) 2017-2018, The BitcoiNote developers
 
-# BitcoiNote GUI Wallet
+# RedStone GUI Wallet
 
 This is a GUI wallet for usage with the BitcoiNote (BTCN) cryptocurrency.
 
